@@ -31,18 +31,3 @@ Inspired by the dribbble design.
 ## Programming Language
 HTML/CSS
 JavaScript
-
-
-## Project Sechdule
-##### Day 01(17-Sep)
-- [ ] creat basic html/CSS
-##### Day 02(18-Sep)
-- [ ] finish task related functions
-##### Day 03(19-Sep)
-- [ ] finish project related functions
-##### Day 04(20-Sep)
-- [ ] finish schedule related functions
-##### Day 05(21-Sep)
-- [ ] pilot version test + fix bugs
-##### Day 06(22-Sep)
-
