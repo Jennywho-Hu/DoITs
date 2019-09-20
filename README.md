@@ -28,6 +28,14 @@ A simple ToDo website for indiviuals. It designed to easy to use and also provid
 Inspired by the dribbble design.
 
 
-## Programming Language
-HTML/CSS
-JavaScript
+
+## Getting Started
+
+```
+# Enter server folder
+cd server
+nodemon server
+# Enter client folder
+cd client
+npm start
+```
